@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Lauren -- a newly-minted SWE previously in biotech R&D.
+
+Check out [JOT](https://github.com/li-lauren/JOT), my full-stack app for news article sharing & discussion.  (There's a short demo video too!)
 <!--
 **li-lauren/li-lauren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
